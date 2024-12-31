@@ -67,3 +67,15 @@ li{
     display: none;
     padding: 1rem;
 }
+@media screen and (maxwidth: 940px) {
+    .nav-menu{
+        display: none;
+    }
+    .nav-icons{
+        display: none;
+    }
+    .hamburger{
+        display: none;
+    }
+    
+}
