@@ -46,3 +46,24 @@ button {
       font-size: 1.5rem;
     }
 }
+
+.navbar{
+    width: 80%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    padding: 0 1rem;
+    z-index: 2;
+}
+.nav-menu {
+    display: flex;
+    
+}
+li{
+    padding:0 1rem;
+}
+.hamburger{
+    display: none;
+    padding: 1rem;
+}
